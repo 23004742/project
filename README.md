@@ -1,6 +1,6 @@
 # project
 ## Aim
-To write a python program using OpenCV to do the following image manipulations.
+To write a python program using OpenCV to do the following image manipulations
 i) Extract ROI from  an image.
 ii) Perform handwritting detection in an image.
 iii) Perform object detection with label in an image.
