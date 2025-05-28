@@ -43,6 +43,6 @@ Set the model and Threshold to 0.5
 ### Step7:
 Flatten the index,confidence.
 ### Step8:
-Display the result.
+Display the result
 
 
